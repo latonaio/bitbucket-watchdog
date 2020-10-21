@@ -1,0 +1,20 @@
+[
+    {
+        "repository": "aion-core",
+        "branch": {
+            "master": "",
+            "develop": ""
+        },
+        "freq": "1min",
+        "timestamp": ""
+    },
+    {
+        "repository": "data-sweeper",
+        "branch": {
+            "master": "",
+            "develop": ""
+        },
+        "freq": "1min",
+        "timestamp": ""
+    }
+]
